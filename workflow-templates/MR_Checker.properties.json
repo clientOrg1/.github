@@ -1,7 +1,7 @@
 {
     "name": "MR Checker",
     "description": "Test workflow templates",
-    "iconName": "icon",
+    "iconName": "Icon",
     "categories": [
         "Hugo"
     ]
