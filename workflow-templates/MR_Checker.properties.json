@@ -1,8 +1,8 @@
 {
     "name": "MR Checker",
     "description": "Octo Organization CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "sparkles-fill",
     "categories": [
-        "Go"
+        "Hugo"
     ]
 }
