@@ -1,4 +1,4 @@
-name: MR_Checker
+name: MR Checker
 
 on:
   push:
